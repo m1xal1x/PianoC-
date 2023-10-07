@@ -1,0 +1,14 @@
+D:\Piano\Piano\bin\Debug\net6.0\Piano.exe
+D:\Piano\Piano\bin\Debug\net6.0\Piano.deps.json
+D:\Piano\Piano\bin\Debug\net6.0\Piano.runtimeconfig.json
+D:\Piano\Piano\bin\Debug\net6.0\Piano.dll
+D:\Piano\Piano\bin\Debug\net6.0\Piano.pdb
+D:\Piano\Piano\obj\Debug\net6.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+D:\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfoInputs.cache
+D:\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfo.cs
+D:\Piano\Piano\obj\Debug\net6.0\Piano.csproj.CoreCompileInputs.cache
+D:\Piano\Piano\obj\Debug\net6.0\Piano.dll
+D:\Piano\Piano\obj\Debug\net6.0\refint\Piano.dll
+D:\Piano\Piano\obj\Debug\net6.0\Piano.pdb
+D:\Piano\Piano\obj\Debug\net6.0\Piano.genruntimeconfig.cache
+D:\Piano\Piano\obj\Debug\net6.0\ref\Piano.dll
